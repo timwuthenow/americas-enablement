@@ -39,7 +39,7 @@
       <dmn:annotation name="annotation-1"/>
       <dmn:rule id="_96C450B0-0449-41D4-9F7C-357C4B07702C">
         <dmn:inputEntry id="_3F795DD4-6D70-4E96-9C91-FF0DEBCBC239">
-          <dmn:text>35</dmn:text>
+          <dmn:text>32</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_83211FA2-8066-45F4-B9CE-14B0BF556EBB">
           <dmn:text>[750..850]</dmn:text>
